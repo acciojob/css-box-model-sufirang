@@ -1,5 +1,5 @@
 /* Your CSS Code here. */
-.box {
+/* .box {
   background-color: #f5f5f5;
   border: 1px solid #ccc;
   padding: 20px;
@@ -16,16 +16,16 @@ p {
   margin-bottom: 0;
 }
 
+ */
 
 
 
 
 
-
-/* .box{
+.box{
 	width: 300px;
 	border: 15px solid blue;
 	padding: 50px;
 	margin: 20px;
 	background-color: lightblue;
-} */
+}
